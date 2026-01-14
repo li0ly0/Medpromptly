@@ -70,4 +70,4 @@ The checklist isn't just a list; it’s a smart schedule:
 ---
 
 ## 🔗 Live Demo
-[View Live Demo](https://med-promptly.vercel.app/)
+[View Live Demo]((https://medpromptly.beverlycionrespecia.workers.dev/)
