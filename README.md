@@ -70,4 +70,4 @@ The checklist isn't just a list; it’s a smart schedule:
 ---
 
 ## 🔗 Live Demo
-[View Live Demo]([https://medpromptly.example.com](https://medpromptly.netlify.app/))
+[View Live Demo](https://medpromptly.example.com](https://medpromptly.netlify.app/)
