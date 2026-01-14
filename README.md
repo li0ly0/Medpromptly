@@ -70,7 +70,4 @@ The checklist isn't just a list; it’s a smart schedule:
 ---
 
 ## 🔗 Live Demo
-[View Live Demo](https://medpromptly.example.com) *(Replace with actual URL)*
-
----
-*Developed with ❤️ for better family health coordination.*
+[View Live Demo](https://medpromptly.example.com)
