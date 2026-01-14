@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 The Problem
+## The Problem
 Caregiving is often stressful and prone to human error. Families face three major hurdles:
 1. **The Forgetfulness Gap:** Patients (especially the elderly) may forget a dose or, worse, double-dose by accident.
 2. **The Anxiety Loop:** Guardians often worry and send repetitive "Did you take your pill?" messages, leading to "notification fatigue."
@@ -14,7 +14,7 @@ Caregiving is often stressful and prone to human error. Families face three majo
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 - **Frontend:** React 19 (ES6+ Modules)
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS (Modern Glassmorphism UI)
@@ -24,7 +24,7 @@ Caregiving is often stressful and prone to human error. Families face three majo
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### 1. Role-Based Experience
 - **Patients:** Get a streamlined, distraction-free checklist. They receive a unique "Care Code" to invite family members.
@@ -46,7 +46,7 @@ The checklist isn't just a list; it’s a smart schedule:
 
 ---
 
-## 💻 How to Run Locally
+## How to Run Locally
 
 1. **Clone the repository** to your local machine.
 2. **Setup Environment:**
@@ -62,7 +62,7 @@ The checklist isn't just a list; it’s a smart schedule:
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 - **Multi-Patient Tracking:** Allow professional caregivers or "Sandwich Generation" parents to track multiple patients (e.g., both an aging parent and a child) from a single unified dashboard.
 - **Pill Photo Uploads:** Allow guardians to snap a photo of the physical pill so patients can recognize it by sight rather than just chemical names.
 - **Automated Email Escalation:** If a "High Priority" med is overdue for more than 60 minutes, trigger an automated email or SMS to the entire Care Circle.
