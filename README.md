@@ -1,6 +1,6 @@
 # MedPromptly
 
-**Precised care, shared with family.** MedPromptly is a modern, real-time medication management system designed to bridge the communication gap between patients and their support network.
+MedPromptly is a modern, real-time medication management system designed to bridge the communication gap between patients and their support network.
 
 ---
 
