@@ -10,7 +10,7 @@ Caregiving is often stressful and prone to human error. Families face three majo
 2. **The Anxiety Loop:** Guardians often worry and send repetitive "Did you take your pill?" messages, leading to "notification fatigue."
 3. **Coordination Chaos:** If multiple guardians are involved, it's often unclear who is currently assisting the patient, leading to duplicate efforts or critical misses.
 
-**MedPromptly solves this** by providing a synchronized "Source of Truth" where every dose taken is logged instantly for the entire care circle to see.
+**MedPromptly solves this** by providing a synchronized "Source of Truth" where every dose taken is logged instantly for the entire current guardians to see.
 
 ---
 
